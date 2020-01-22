@@ -16,3 +16,4 @@ Open your MATLAB environment (command window)
 >   
 > P = multimodalDistro(100,0.10); plot(P); xlabel('x'); ylabel('P(x)');
 
+![A Sample distribution for above command](https://github.com/tirtharajdash/multimodalGaussianDistro/blob/master/sample.jpg)
